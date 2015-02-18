@@ -1,0 +1,21 @@
+﻿1;Østfold;Øfo;Østfold;Østfold;3143188;507643;275535;59.2752 ;11.1058
+2;Akershus;Ahu;Akershus;Akershus;3163480;516861;547946;59.9560;11.0492
+3;Oslo;Osl;Oslo;Oslo;3143242;502296;605005;59.9119 ;10.7336
+4;Hedmark;Hed;Hedmárku;Hedmark;3153403;2274156;191768;60.7953 ;11.0827
+5;Oppland;Opp;Opplánda;Oppland;3143487;2290720;186349;61.1163 ;10.4622
+6;Buskerud;Bus;Buskerud;Buskerud;3159665;2271147;262210;59.7484 ;10.1891
+7;Vestfold;Vfo;Vestfold;Vestfold;3132015;508308;234163;59.2654 ;10.4159
+8;Telemark;Tel;Telemárku;Telemark;3134723;2284615;169276;59.2161 ;9.6112
+9;Aust-Agder;AAg;Aust-Agder;Aust-Agder;3162354;2271106;110299;58.4643 ;8.7680
+10;Vest-Agder;VAg;Vest-Agder;Vest-Agder;3132064;504476;172829;58.1513 ;7.9947
+11;Rogaland;Rog;Rogalánda;Rogaland;3141558;2270711;437729;58.9647 ;5.7312
+12;Hordaland;Hor;Hordalánda;Hordaland;3151864;2271966;485552;60.3867 ;5.3325
+14;Sogn og Fjordane;SFj;Sogn og Fjordane;Sogn og Fjordane;3137966;2271158;107882;61.1826 ;6.8526
+15;Møre og Romsdal;MRo;Møre og Romsdal;Møre og Romsdal;3145495;2290757;254651;62.7345 ;7.1506
+16;Sør-Trøndelag;STr;Mátta-Trøndelága;Sør-Trøndelag;3137400;2305672;294876;63.4292 ;10.3945
+17;Nord-Trøndelag;NTr;Davvi-Trøndelága;Nord-Trøndelag;3144148;535320;132258;64.0144 ;11.4819
+18;Nordland;Nor;Nordlánda;Nordland;3144301;538096;237511;67.2804 ;14.3764
+19;Troms;Tro;Romsa;Tromssa;3133897;541702;157917;69.6442 ;18.9445
+20;Finnmark;Fin;Finnmárku;Finmarkku;780166;504185;73509;70.0815 ;29.7358
+21;Svalbard;Sva;Svalbárda;Pispärkki;607072;;2529;78.2222;15.6315
+22;Jan Mayen;JMa;Jan Mayen;Jan Mayen;3041964;;18;70.9221;-8.7187

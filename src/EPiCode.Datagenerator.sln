@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPiCode.NameGenerator", "EPiCode.NameGenerator\EPiCode.NameGenerator.csproj", "{2D257FCB-0953-4032-9E81-07D22E7EEB65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPiCode.Datagenerator", "EPiCode.Datagenerator\EPiCode.Datagenerator.csproj", "{9FD1E214-FC92-416C-B2A1-2C32F7787908}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D257FCB-0953-4032-9E81-07D22E7EEB65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D257FCB-0953-4032-9E81-07D22E7EEB65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D257FCB-0953-4032-9E81-07D22E7EEB65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D257FCB-0953-4032-9E81-07D22E7EEB65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FD1E214-FC92-416C-B2A1-2C32F7787908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FD1E214-FC92-416C-B2A1-2C32F7787908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FD1E214-FC92-416C-B2A1-2C32F7787908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FD1E214-FC92-416C-B2A1-2C32F7787908}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

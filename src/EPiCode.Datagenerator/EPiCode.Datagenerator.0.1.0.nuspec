@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>EPiCode.Datagenerator</id>
+        <version>0.1.0</version>
+        <title>EPiServer Commerce Data Generator</title>
+        <authors>The EPiCode Community</authors>
+        <projectUrl>https://github.com/BVNetwork/CommerceDevelopmentResources</projectUrl>
+        <iconUrl>http://www.coderesort.com/favicon.ico</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Tool for creating user and orders</description>
+        <releaseNotes />
+    </metadata>
+    <files>
+        <file src="..\EPiCode.NameGenerator\txts\FirstNames.txt" target="content\App_Data\datagenerator\FirstNames.txt" />
+        <file src="..\EPiCode.NameGenerator\txts\FirstNamesFemale.txt" target="content\App_Data\datagenerator\FirstNamesFemale.txt" />
+        <file src="..\EPiCode.NameGenerator\txts\Fylke.txt" target="content\App_Data\datagenerator\Fylke.txt" />
+        <file src="..\EPiCode.NameGenerator\txts\Kommune.txt" target="content\App_Data\datagenerator\Kommune.txt" />
+        <file src="..\EPiCode.NameGenerator\txts\LastNames.txt" target="content\App_Data\datagenerator\LastNames.txt" />
+        <file src="..\EPiCode.NameGenerator\txts\Post.txt" target="content\App_Data\datagenerator\Post.txt" />
+        <file src="bin\EPiCode.Datagenerator.dll" target="lib\EPiCode.Datagenerator.dll" />
+        <file src="bin\EPiCode.NameGenerator.dll" target="lib\EPiCode.NameGenerator.dll" />
+    </files>
+</package>

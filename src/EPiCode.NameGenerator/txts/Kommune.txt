@@ -1,0 +1,432 @@
+﻿101;6453395;Halden;1;Østfold
+104;6453384;Moss;1;Østfold
+105;6453388;Sarpsborg;1;Østfold
+106;6453392;Fredrikstad;1;Østfold
+111;3151309;Hvaler;1;Østfold
+118;3162957;Aremark;1;Østfold
+119;6453380;Marker;1;Østfold
+121;3141407;Rømskog;1;Østfold
+122;3133977;Trøgstad;1;Østfold
+123;3137244;Spydeberg;1;Østfold
+124;3162649;Askim;1;Østfold
+125;3158648;Eidsberg;1;Østfold
+127;3139014;Skiptvet;1;Østfold
+128;3142518;Rakkestad;1;Østfold
+135;3142567;Råde;1;Østfold
+136;3140821;Rygge;1;Østfold
+137;6453385;Våler;1;Østfold
+138;3152504;Hobøl;1;Østfold
+211;3132050;Vestby;2;Akershus
+213;3139064;Ski;2;Akershus
+214;3162672;Ås;2;Akershus
+215;3156466;Frogn;2;Akershus
+216;3144656;Nesodden;2;Akershus
+217;3143498;Oppegård;2;Akershus
+219;3162212;Bærum;2;Akershus
+220;3162656;Asker;2;Akershus
+221;6453368;Aurskog-Høland;2;Akershus
+226;3137391;Sørum;2;Akershus
+227;3157694;Fet;2;Akershus
+228;3142561;Rælingen;2;Akershus
+229;3158260;Enebakk;2;Akershus
+230;3146936;Lørenskog;2;Akershus
+231;3139111;Skedsmo;2;Akershus
+233;3144549;Nittedal;2;Akershus
+234;3155709;Gjerdrum;2;Akershus
+235;3133381;Ullensaker;2;Akershus
+236;6453364;Nes;2;Akershus
+237;3158606;Eidsvoll;2;Akershus
+238;3145014;Nannestad;2;Akershus
+239;3151414;Hurdal;2;Akershus
+301;6453366;Oslo;3;Oslo
+402;3149534;Kongsvinger;4;Hedmark
+403;6453351;Hamar;4;Hedmark
+412;3141831;Ringsaker;4;Hedmark
+415;3146896;Løten;4;Hedmark
+417;3137167;Stange;4;Hedmark
+418;3144273;Nord-Odal;4;Hedmark
+419;3137441;Sør-Odal;4;Hedmark
+420;3158629;Eidskog;4;Hedmark
+423;3154695;Grue;4;Hedmark
+425;3162593;Åsnes;4;Hedmark
+426;6453356;Våler;4;Hedmark
+427;3158299;Elverum;4;Hedmark
+428;3133817;Trysil;4;Hedmark
+429;3163189;Åmot;4;Hedmark
+430;3136387;Stor-Elvdal;4;Hedmark
+432;3141977;Rendalen;4;Hedmark
+434;3158205;Engerdal;4;Hedmark
+436;6453344;Tolga;4;Hedmark
+437;3133497;Tynset;4;Hedmark
+438;3163268;Alvdal;4;Hedmark
+439;3156866;Folldal;4;Hedmark
+441;6453342;Os;4;Hedmark
+501;6453350;Lillehammer;5;Oppland
+502;6453355;Gjøvik;5;Oppland
+511;3159047;Dovre;5;Oppland
+512;3147714;Lesja;5;Oppland
+513;3138965;Skjåk;5;Oppland
+514;3147022;Lom;5;Oppland
+515;3133054;Vågå;5;Oppland
+516;3144350;Nord-Fron;5;Oppland
+517;3139922;Sel;5;Oppland
+519;3137519;Sør-Fron;5;Oppland
+520;3141849;Ringebu;5;Oppland
+521;3142849;Øyer;5;Oppland
+522;3155962;Gausdal;5;Oppland
+528;3143158;Østre Toten;5;Oppland
+529;3131957;Vestre Toten;5;Oppland
+532;3150840;Jevnaker;5;Oppland
+533;3146759;Lunner;5;Oppland
+534;3155280;Gran;5;Oppland
+536;3137678;Søndre Land;5;Oppland
+538;3144229;Nordre Land;5;Oppland
+540;3137635;Sør-Aurdal;5;Oppland
+541;3158018;Etnedal;5;Oppland
+542;3144466;Nord-Aurdal;5;Oppland
+543;3131961;Vestre Slidre;5;Oppland
+544;3142751;Øystre Slidre;5;Oppland
+545;6453349;Vang;5;Oppland
+602;6453372;Drammen;6;Buskerud
+604;6453373;Kongsberg;6;Buskerud
+605;6453360;Ringerike;6;Buskerud
+612;6453367;Hole;6;Buskerud
+615;6453361;Flå;6;Buskerud
+616;6453359;Nes;6;Buskerud
+617;3155419;Gol;6;Buskerud
+618;3152987;Hemsedal;6;Buskerud
+619;3163374;Ål;6;Buskerud
+620;6453357;Hol;6;Buskerud
+621;3139735;Sigdal;6;Buskerud
+622;3149302;Krødsherad;6;Buskerud
+623;3145690;Modum;6;Buskerud
+624;3143010;Øvre Eiker;6;Buskerud
+625;3144882;Nedre Eiker;6;Buskerud
+626;3147541;Lier;6;Buskerud
+627;3141104;Røyken;6;Buskerud
+628;3151404;Hurum;6;Buskerud
+631;3157053;Flesberg;6;Buskerud
+632;3141467;Rollag;6;Buskerud
+633;6453363;Nore og Uvdal;6;Buskerud
+701;3160606;Horten;7;Vestfold
+702;6453382;Holmestrand;7;Vestfold
+704;6453389;Tønsberg;7;Vestfold
+706;6453396;Sandefjord;7;Vestfold
+709;6453390;Larvik;7;Vestfold
+711;6453377;Svelvik;7;Vestfold
+713;6453378;Sande;7;Vestfold
+714;6453379;Hof;7;Vestfold
+716;3132904;Re;7;Vestfold
+719;3163149;Andebu;7;Vestfold
+720;3136717;Stokke;7;Vestfold
+722;3144070;Nøtterøy;7;Vestfold
+723;3134520;Tjøme;7;Vestfold
+728;6453386;Lardal;7;Vestfold
+805;6453394;Porsgrunn;8;Telemark
+806;6453383;Skien;8;Telemark
+807;6453369;Notodden;8;Telemark
+811;3139675;Siljan;8;Telemark
+814;3162078;Bamble;8;Telemark
+815;3149409;Kragerø;8;Telemark
+817;3159006;Drangedal;8;Telemark
+819;6453387;Nome;8;Telemark
+821;6453381;Bø;8;Telemark
+822;3140043;Sauherad;8;Telemark
+826;3134592;Tinn;8;Telemark
+827;3152610;Hjartdal;8;Telemark
+828;3139893;Seljord;8;Telemark
+829;3148725;Kviteseid;8;Telemark
+830;3144561;Nissedal;8;Telemark
+831;3156247;Fyresdal;8;Telemark
+833;6453376;Tokke;8;Telemark
+834;6453365;Vinje;8;Telemark
+901;6453397;Risør;9;Aust-Agder
+904;6453401;Grimstad;9;Aust-Agder
+906;6453399;Arendal;9;Aust-Agder
+911;3155672;Gjerstad;9;Aust-Agder
+912;3132337;Vegårshei;9;Aust-Agder
+914;3133680;Tvedestrand;9;Aust-Agder
+919;3156455;Froland;9;Aust-Agder
+926;3131969;Lillesand;9;Aust-Agder
+928;3161528;Birkenes;9;Aust-Agder
+929;3163213;Åmli;9;Aust-Agder
+935;3150950;Iveland;9;Aust-Agder
+937;3157976;Evje og Hornnes;9;Aust-Agder
+938;3159581;Bygland;9;Aust-Agder
+940;3132848;Valle;9;Aust-Agder
+941;3159574;Bykle;9;Aust-Agder
+1001;6453405;Kristiansand;10;Vest-Agder
+1002;6453406;Mandal;10;Vest-Agder
+1003;6453403;Farsund;10;Vest-Agder
+1004;6453398;Flekkefjord;10;Vest-Agder
+1014;3132206;Vennesla;10;Vest-Agder
+1017;6453402;Songdalen;10;Vest-Agder
+1018;3137970;Søgne;10;Vest-Agder
+1021;6453400;Marnardal;10;Vest-Agder
+1026;3162697;Åseral;10;Vest-Agder
+1027;3137638;Audnedal;10;Vest-Agder
+1029;6453404;Lindesnes;10;Vest-Agder
+1032;3146682;Lyngdal;10;Vest-Agder
+1034;3154388;Hægebostad;10;Vest-Agder
+1037;3148775;Kvinesdal;10;Vest-Agder
+1046;3139612;Sirdal;10;Vest-Agder
+1101;3158591;Eigersund;11;Rogaland
+1102;6453393;Sandnes;11;Rogaland
+1103;6453391;Stavanger;11;Rogaland
+1106;6453374;Haugesund;11;Rogaland
+1111;3137953;Sokndal;11;Rogaland
+1112;3146777;Lund;11;Rogaland
+1114;3161457;Bjerkreim;11;Rogaland
+1119;3154414;Hå;11;Rogaland
+1120;3149862;Klepp;11;Rogaland
+1121;3134627;Time;11;Rogaland
+1122;3155644;Gjesdal;11;Rogaland
+1124;3137941;Sola;11;Rogaland
+1127;3142395;Randaberg;11;Rogaland
+1129;3156724;Forsand;11;Rogaland
+1130;3135788;Strand;11;Rogaland
+1133;3152560;Hjelmeland;11;Rogaland
+1134;6453370;Suldal;11;Rogaland
+1135;3140054;Sauda;11;Rogaland
+1141;3157573;Finnøy;11;Rogaland
+1142;3141965;Rennesøy;11;Rogaland
+1144;3148673;Kvitsøy;11;Rogaland
+1145;3160810;Bokn;11;Rogaland
+1146;3133447;Tysvær;11;Rogaland
+1149;6453375;Karmøy;11;Rogaland
+1151;3133144;Utsira;11;Rogaland
+1160;6453371;Vindafjord;11;Rogaland
+1201;3161733;Bergen;12;Hordaland
+1211;3158016;Etne;12;Hordaland
+1216;3135136;Sveio;12;Hordaland
+1219;3160744;Bømlo;12;Hordaland
+1221;3136522;Stord;12;Hordaland
+1222;3157435;Fitjar;12;Hordaland
+1223;3133472;Tysnes;12;Hordaland
+1224;3148768;Kvinnherad;12;Hordaland
+1227;3150803;Jondal;12;Hordaland
+1228;3143828;Odda;12;Hordaland
+1231;3133379;Ullensvang;12;Hordaland
+1232;3158666;Eidfjord;12;Hordaland
+1233;3133311;Ulvik;12;Hordaland
+1234;3155244;Granvin;12;Hordaland
+1235;3131325;Voss;12;Hordaland
+1238;3149017;Kvam;12;Hordaland
+1241;3156272;Fusa;12;Hordaland
+1242;3140461;Samnanger;12;Hordaland
+1243;6453362;Os;12;Hordaland
+1244;3162320;Austevoll;12;Hordaland
+1245;3135436;Sund;12;Hordaland
+1246;3157357;Fjell;12;Hordaland
+1247;3162639;Askøy;12;Hordaland
+1251;6453352;Vaksdal;12;Hordaland
+1252;3145691;Modalen;12;Hordaland
+1253;6453358;Osterøy;12;Hordaland
+1256;3146170;Meland;12;Hordaland
+1259;6453353;Øygarden;12;Hordaland
+1260;6453354;Radøy;12;Hordaland
+1263;3147439;Lindås;12;Hordaland
+1264;3162270;Austrheim;12;Hordaland
+1265;3157764;Fedje;12;Hordaland
+1266;3146314;Masfjorden;12;Hordaland
+1401;3156987;Flora;14;Sogn og Fjordane
+1411;3154556;Gulen;14;Sogn og Fjordane
+1412;3137740;Solund;14;Sogn og Fjordane
+1413;3151263;Hyllestad;14;Sogn og Fjordane
+1416;3151572;Høyanger;14;Sogn og Fjordane
+1417;3131675;Vik;14;Sogn og Fjordane
+1418;3162115;Balestrand;14;Sogn og Fjordane
+1419;3147943;Leikanger;14;Sogn og Fjordane
+1420;3137974;Sogndal;14;Sogn og Fjordane
+1421;3162403;Aurland;14;Sogn og Fjordane
+1422;3148572;Lærdal;14;Sogn og Fjordane
+1424;6453348;Årdal;14;Sogn og Fjordane
+1426;3146725;Luster;14;Sogn og Fjordane
+1428;3162629;Askvoll;14;Sogn og Fjordane
+1429;3157409;Fjaler;14;Sogn og Fjordane
+1430;3155980;Gaular;14;Sogn og Fjordane
+1431;3150821;Jølster;14;Sogn og Fjordane
+1432;3156800;Førde;14;Sogn og Fjordane
+1433;3144951;Naustdal;14;Sogn og Fjordane
+1438;3160090;Bremanger;14;Sogn og Fjordane
+1439;6453346;Vågsøy;14;Sogn og Fjordane
+1441;3139908;Selje;14;Sogn og Fjordane
+1443;6453347;Eid;14;Sogn og Fjordane
+1444;3151810;Hornindal;14;Sogn og Fjordane
+1445;3155473;Gloppen;14;Sogn og Fjordane
+1449;3135597;Stryn;14;Sogn og Fjordane
+1502;3145582;Molde;15;Møre og Romsdal
+1504;6453341;Ålesund;15;Møre og Romsdal
+1505;6453331;Kristiansund;15;Møre og Romsdal
+1511;3132715;Vanylven;15;Møre og Romsdal
+1514;6453345;Sande;15;Møre og Romsdal
+1515;6453340;Herøy;15;Møre og Romsdal
+1516;3133350;Ulstein;15;Møre og Romsdal
+1517;3153860;Hareid;15;Møre og Romsdal
+1519;3131447;Volda;15;Møre og Romsdal
+1520;3143333;Ørsta;15;Møre og Romsdal
+1523;3143338;Ørskog;15;Møre og Romsdal
+1524;3144404;Norddal;15;Møre og Romsdal
+1525;3135806;Stranda;15;Møre og Romsdal
+1526;3136539;Stordal;15;Møre og Romsdal
+1528;3134983;Sykkylven;15;Møre og Romsdal
+1529;3138746;Skodje;15;Møre og Romsdal
+1531;6453343;Sula;15;Møre og Romsdal
+1532;3155805;Giske;15;Møre og Romsdal
+1534;3153889;Haram;15;Møre og Romsdal
+1535;6453338;Vestnes;15;Møre og Romsdal
+1539;6453337;Rauma;15;Møre og Romsdal
+1543;3144640;Nesset;15;Møre og Romsdal
+1545;6453336;Midsund;15;Møre og Romsdal
+1546;3140273;Sandøy;15;Møre og Romsdal
+1547;6453334;Aukra;15;Møre og Romsdal
+1548;3156555;Fræna;15;Møre og Romsdal
+1551;6453333;Eide;15;Møre og Romsdal
+1554;6453332;Averøy;15;Møre og Romsdal
+1557;3155751;Gjemnes;15;Møre og Romsdal
+1560;3134596;Tingvoll;15;Møre og Romsdal
+1563;3135381;Sunndal;15;Møre og Romsdal
+1566;3135358;Surnadal;15;Møre og Romsdal
+1567;3141865;Rindal;15;Møre og Romsdal
+1571;3154148;Halsa;15;Møre og Romsdal
+1573;3138113;Smøla;15;Møre og Romsdal
+1576;3162407;Aure;15;Møre og Romsdal
+1601;3133881;Trondheim;16;Sør-Trøndelag
+1612;3152998;Hemne;16;Sør-Trøndelag
+1613;3138047;Snillfjord;16;Sør-Trøndelag
+1617;3152623;Hitra;16;Sør-Trøndelag
+1620;6453329;Frøya;16;Sør-Trøndelag
+1621;3143410;Ørland;16;Sør-Trøndelag
+1622;3163525;Agdenes;16;Sør-Trøndelag
+1624;3141725;Rissa;16;Sør-Trøndelag
+1627;3161159;Bjugn;16;Sør-Trøndelag
+1630;3163537;Åfjord;16;Sør-Trøndelag
+1632;3141654;Roan;16;Sør-Trøndelag
+1633;3143262;Osen;16;Sør-Trøndelag
+1634;3143508;Oppdal;16;Sør-Trøndelag
+1635;3141967;Rennebu;16;Sør-Trøndelag
+1636;3146152;Meldal;16;Sør-Trøndelag
+1638;3143419;Orkdal;16;Sør-Trøndelag
+1640;6453339;Røros;16;Sør-Trøndelag
+1644;3154114;Holtålen;16;Sør-Trøndelag
+1648;6453335;Midtre Gauldal;16;Sør-Trøndelag
+1653;3146123;Melhus;16;Sør-Trøndelag
+1657;3139147;Skaun;16;Sør-Trøndelag
+1662;3149954;Klæbu;16;Sør-Trøndelag
+1663;3146469;Malvik;16;Sør-Trøndelag
+1664;3139940;Selbu;16;Sør-Trøndelag
+1665;3133517;Tydal;16;Sør-Trøndelag
+1702;3136944;Steinkjer;17;Nord-Trøndelag
+1703;6453328;Namsos;17;Nord-Trøndelag
+1711;3146022;Meråker;17;Nord-Trøndelag
+1714;3136768;Stjørdal;17;Nord-Trøndelag
+1717;3156441;Frosta;17;Nord-Trøndelag
+1718;3147775;Leksvik;17;Nord-Trøndelag
+1719;6453330;Levanger;17;Nord-Trøndelag
+1721;3132178;Verdal;17;Nord-Trøndelag
+1724;3132142;Verran;17;Nord-Trøndelag
+1725;3145028;Namdalseid;17;Nord-Trøndelag
+1736;3138075;Snåsa;17;Nord-Trøndelag
+1738;6453327;Lierne;17;Nord-Trøndelag
+1739;3141059;Røyrvik;17;Nord-Trøndelag
+1740;3145020;Namsskogan;17;Nord-Trøndelag
+1742;3154905;Grong;17;Nord-Trøndelag
+1743;3151536;Høylandet;17;Nord-Trøndelag
+1744;3143058;Overhalla;17;Nord-Trøndelag
+1748;3156675;Fosnes;17;Nord-Trøndelag
+1749;3157170;Flatanger;17;Nord-Trøndelag
+1750;3131656;Vikna;17;Nord-Trøndelag
+1751;3145065;Nærøy;17;Nord-Trøndelag
+1755;3147796;Leka;17;Nord-Trøndelag
+1756;3151158;Inderøy;17;Nord-Trøndelag
+1804;6453323;Bodø;18;Nordland
+1805;6453321;Narvik;18;Nordland
+1811;3161552;Bindal;18;Nordland
+1812;3137700;Sømna;18;Nordland
+1813;3159955;Brønnøy;18;Nordland
+1815;6453326;Vega;18;Nordland
+1816;3131900;Vevelstad;18;Nordland
+1818;6453325;Herøy;18;Nordland
+1820;3163293;Alstahaug;18;Nordland
+1822;3147877;Leirfjord;18;Nordland
+1824;3132346;Vefsn;18;Nordland
+1825;3155295;Grane;18;Nordland
+1826;3153753;Hattfjelldal;18;Nordland
+1827;3159094;Dønna;18;Nordland
+1828;3144660;Nesna;18;Nordland
+1832;3152993;Hemnes;18;Nordland
+1833;6453324;Rana;18;Nordland
+1834;3146743;Lurøy;18;Nordland
+1835;3134084;Træna;18;Nordland
+1836;3141588;Rødøy;18;Nordland
+1837;3146067;Meløy;18;Nordland
+1838;3155849;Gildeskål;18;Nordland
+1839;3161943;Beiarn;18;Nordland
+1840;3140498;Saltdal;18;Nordland
+1841;3157780;Fauske;18;Nordland
+1845;3137522;Sørfold;18;Nordland
+1848;3137038;Steigen;18;Nordland
+1849;3154063;Hamarøy;18;Nordland
+1850;3133482;Tysfjord;18;Nordland
+1851;3147101;Lødingen;18;Nordland
+1852;3134549;Tjeldsund;18;Nordland
+1853;3158002;Evenes;18;Nordland
+1854;3162107;Ballangen;18;Nordland
+1856;3141198;Røst;18;Nordland
+1857;3133071;Værøy;18;Nordland
+1859;3157197;Flakstad;18;Nordland
+1860;6453322;Vestvågøy;18;Nordland
+1865;3133044;Vågan;18;Nordland
+1866;3154394;Hadsel;18;Nordland
+1867;6453320;Bø;18;Nordland
+1868;3143705;Øksnes;18;Nordland
+1870;3137404;Sortland;18;Nordland
+1871;6453318;Andøy;18;Nordland
+1874;3145382;Moskenes;18;Nordland
+1902;6453316;Tromsø;19;Troms
+1903;6453319;Harstad;19;Troms
+1911;3149109;Kvæfjord;19;Troms
+1913;3139372;Skånland;19;Troms
+1917;3151230;Ibestad;19;Troms
+1919;3155195;Gratangen;19;Troms
+1920;3147989;Lavangen;19;Troms
+1922;3162043;Bardu;19;Troms
+1923;3140541;Salangen;19;Troms
+1924;3146478;Målselv;19;Troms
+1925;3137432;Sørreisa;19;Troms
+1926;3158837;Dyrøy;19;Troms
+1927;3134052;Tranøy;19;Troms
+1928;3134206;Torsken;19;Troms
+1929;6453317;Berg;19;Troms
+1931;3147742;Lenvik;19;Troms
+1933;3162091;Balsfjord;19;Troms
+1936;779339;Karlsøy;19;Troms
+1938;778840;Lyngen;19;Troms
+1939;777394;Storfjord;19;Troms
+1940;779367;Kåfjord;19;Troms
+1941;777680;Skjervøy;19;Troms
+1942;778430;Nordreisa;19;Troms
+1943;779159;Kvænangen;19;Troms
+2002;6453313;Vardø;20;Finnmark
+2003;6453315;Vadsø;20;Finnmark
+2004;6453312;Hammerfest;20;Finnmark
+2011;779327;Kautokeino;20;Finnmark
+2012;780946;Alta;20;Finnmark
+2014;778877;Loppa;20;Finnmark
+2015;779641;Hasvik;20;Finnmark
+2017;779143;Kvalsund;20;Finnmark
+2018;778730;Måsøy;20;Finnmark
+2019;778459;Nordkapp;20;Finnmark
+2020;6453314;Porsanger;20;Finnmark
+2021;779349;Karasjok;20;Finnmark
+2022;778967;Lebesby;20;Finnmark
+2023;779933;Gamvik;20;Finnmark
+2024;780686;Berlevåg;20;Finnmark
+2025;777197;Tana;20;Finnmark
+2027;778559;Nesseby;20;Finnmark
+2028;780714;Båtsfjord;20;Finnmark
+2030;777554;Sør-Varanger;20;Finnmark
+2111;7535696;Spitsbergen;21;Svalbard
+2121;7535698;Bjørnøya;21;Svalbard
+2131;7535697;Hopen;21;Svalbard
+2211;7535695;Jan Mayen;22;Jan Mayen
