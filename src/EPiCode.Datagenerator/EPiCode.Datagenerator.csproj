@@ -112,6 +112,7 @@
   <ItemGroup>
     <None Include="app.config" />
     <None Include="packages.config" />
+    <None Include="web.config" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\EPiCode.NameGenerator\EPiCode.NameGenerator.csproj">
