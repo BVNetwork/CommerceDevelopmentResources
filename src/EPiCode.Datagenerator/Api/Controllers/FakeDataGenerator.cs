@@ -1,13 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Collections.Specialized;
 using System.Diagnostics;
 using System.Linq;
-using System.Reflection;
 using System.Web.Hosting;
 using System.Web.Http;
-using EPiCode.Datagenerator.Api.Controllers;
 using EPiCode.Datagenerator.Api.DataObjects;
+using EPiCode.NameGenerator;
 using EPiServer.Logging;
 using EPiServer.ServiceLocation;
 using Mediachase.Commerce.Catalog;
@@ -17,13 +15,11 @@ using Mediachase.Commerce.Catalog.Search;
 using Mediachase.Commerce.Customers;
 using Mediachase.Commerce.Orders;
 using Mediachase.Commerce.Orders.Managers;
-using EPiCode.NameGenerator;
-
 using Address = EPiCode.NameGenerator.Address;
 
-namespace ServiceApi
+namespace EPiCode.Datagenerator.Api.Controllers
 {
-    public class DataGeneratorController : ApiController
+    public class FakeDataGeneratorController : ApiController
     {
         private Injected<ILogger> _logger;
 
