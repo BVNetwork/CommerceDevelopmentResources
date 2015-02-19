@@ -43,8 +43,8 @@ namespace EPiCode.Datagenerator.Api.Controllers
         /// <param name="customer"></param>
         public Customer Post([FromBody] Customer customer)
         {
-            // MembershipUser user = CreateMembershipUser(customer);
-            MembershipUser user = null;
+            MembershipUser user = CreateMembershipUser(customer);
+           // MembershipUser user = null;
             CustomerContact newContact = CreateCustomerContact(customer, user);
             
             // Fetch contact from db
